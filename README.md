@@ -1,4 +1,13 @@
-# default
+# Example login
+
+This example uses:
+- vue router
+- pinia
+- vuetify
+
+And create a simple dummy form for login, a navigation drawer that includes two routes and logout button
+
+![login](./images/login.gif)
 
 ## Project setup
 
@@ -18,6 +27,4 @@ yarn dev
 yarn build
 ```
 
-### Customize configuration
 
-See [Configuration Reference](https://vitejs.dev/config/).
